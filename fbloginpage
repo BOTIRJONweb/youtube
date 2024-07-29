@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facebook</title>
+</head>
+<style>
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(196, 192, 192);
+    }
+    h1{
+        color:rgb(6, 56, 254);
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 65px;
+        margin-top: 250px;
+        margin-left: 200px;
+    }
+    h2{
+        margin-left: 200px;
+    }
+    .project{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        height: 100vh;
+    }
+    .main{
+        width: 100%;
+        height: 100vh;
+ 
+    }
+    .main2{
+        width: 100%;
+        height: 100vh;
+      
+    }
+    form{
+        border: 1px solid black;
+        height: 50vh;
+        width: 400px;
+        margin-top: 150px;
+        border-radius: 15px;
+        padding: 40px;
+        background-color: white;
+        width:500px ;
+        height: 430px;
+    }
+    input{
+        width: 350px;
+        height: 6vh;
+        border: 1px solid black ;
+        border-radius: 5px;
+        padding: 10px;
+    }
+    button{
+        color: white;
+        font-size: 25px;
+    }
+    h3{
+        color: rgb(6, 56, 254) ;
+    }
+</style>
+<body>
+    <div class="project">
+       <div class="main">
+           <h1>facebook</h1>
+           <h2>Connect with friends and the world <br>around you on Facebook</h2>
+       </div>
+       <div class="main2"> 
+        <center>
+        <form action="">
+            <input type="text" placeholder="Email or Phone number"><br><br>
+            <input type="text" placeholder="Password"><br><br>
+            <button style="width: 350px; height: 7vh; background-color:rgb(6, 56, 254)  ; border-radius: 10px; border: 1px solid none;">Log in</button><br><br>
+            <h3>Forgot account?</h3><br><br><hr><br><br>
+            <button style="width: 300px; height: 7vh; background-color:rgb(35, 157, 33)  ; border-radius: 10px; border: 1px solid none;">Create new account</button><br><br>
+        </form>
+        </center>
+       </div>
+    </div>
+</body>
+</html>
