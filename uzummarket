@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>uzum market</title>
+    <link rel="stylesheet" href="uzum.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="project">
+        <div class="top">
+            <i class="fa-solid fa-location-dot" style="font-size: 18px;"></i> &nbsp;&nbsp;<span>Shahar: <a href="s">Namangan</a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Topshirish punktlari &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <span style="color: rgb(152, 69, 230);">Uzumda soting</span> &nbsp;&nbsp;&nbsp; &nbsp; Savol-javoblar &nbsp;&nbsp;&nbsp; &nbsp;Buyurtmalarim &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><img src="flagcircle.png" alt=""></b>&nbsp;&nbsp;&nbsp;O'zbekcha</span> 
+        </div><br>
+        <div class="emb">
+            <span><img  style="height: 35px; width: 200px;"  src="uzumlogo.png" alt=""></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <span><img style="height: 40px; width: 120px;" src="image copy.png" alt=""></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span><input type="text" placeholder="Mahsulot va turkumlarni izlash"><span><i class="fa-solid fa-magnifying-glass" style="font-size: 27px; border: 1px solid black; height: 40px; border-left:none; width: 70px; text-align: center; background-color: rgba(0, 0, 0, 0.094);border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;" ></i></span> &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<i class="fa-regular fa-user" style="font-size: 25px;"></i> &nbsp;&nbsp;Kirish</span>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<span><i class="fa-regular fa-heart"style="font-size: 25px;"></i> &nbsp;&nbsp;Saralangan</span>&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<span><i class="fa-solid fa-bag-shopping"style="font-size: 25px;"></i>&nbsp;&nbsp; &nbsp;&nbsp;Savat</span>
+        </div>
+        <div class="kind">
+            <img src="image.png" alt="" height="30px" style="width: 480px;">&nbsp;&nbsp; &nbsp; <span style="margin-top: 5px;"> Elektronika</span>&nbsp;&nbsp; &nbsp;&nbsp;<span style="margin-top: 5px;">Maishiy Texnika </span>&nbsp;&nbsp; &nbsp;&nbsp;<span style="margin-top: 5px;">Kiyim</span>&nbsp;&nbsp; &nbsp;&nbsp;<span style="margin-top: 5px;">Poyabzallar</span>&nbsp;&nbsp; &nbsp;&nbsp;<span style="margin-top: 5px;">Aksessuarlar</span>&nbsp;&nbsp; &nbsp;&nbsp;<span style="margin-top: 5px;">Go'zallik va Parvarish</span>&nbsp;&nbsp; &nbsp;&nbsp;<span style="margin-top: 5px;">Salomat</span>&nbsp;&nbsp; &nbsp;&nbsp;<span style="margin-top: 5px;">Yana</span>
+        </div><br>
+        <div class="rasm">
+            <img style="width: 1270px;" src="image copy 2.png" alt="">
+        </div><br><br>
+        <div class="h1"><b>Mashhur ></b></div><br>
+        <div class="mashhur">
+            <div class="pul"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cokjfi70sttt9lm500rg/original.jpg" alt=""><br><br>Erkaklar shimlari, klassik, tekis <br>chinos <br>
+                <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (468 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">19 716 so'm/oyiga</span><br><br><del style="color: gray;">250 000</del><br> <span>169 000 so'm    </span> </div>
+            <div class="pul"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cdibqpf0tgqvlm59b1v0/original.jpg" alt=""><br><br>Ofis qog'ozi Svetocopy ECO, A4f, <br>80g/m2, 500 varaq <br>
+                    <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.8 ball (1958 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">19 716 so'm/oyiga</span><br><br><del style="color: gray;">4 200</del><br> <span>36 000 so'm    </span> </div>
+            <div class="pul"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cqmcp0sqvsse8leu98n0/original.jpg" alt=""><br><br>Idish yuvish uchun vosita Fairy,<br> limon, 450 ml<br>
+                <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">4 433 so'm/oyiga</span><br><br><del style="color: gray;">25 000</del><br> <span>19 000 so'm    </span> </div>
+            <div class="pul"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cqg8247frr8a72r5hga0/original.jpg" alt=""><br><br>Soch uchun niqob Garnier Fructis <br> Superfood Tarvuz, 390 ml<br>
+                    <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">4 433 so'm/oyiga</span><br><br><del style="color: gray;">75 000</del><br> <span>38 000 so'm    </span> </div>
+            <div class="pul"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cq5t1agsarnfdo9au850/original.jpg" alt=""><br><br>Aqlli shvabra, chelak va siqish <br> bilan, 2 ta qo'shimcha nasadka... <br>
+                        <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">16 333 so'm/oyiga</span><br><br><del style="color: gray;">208 000</del><br> <span>140 000 so'm    </span> </div>
+        </div>
+        <div class="katalog">
+            <div class="pu"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/ce4pavqvtie1lhbehr4g/original.jpg" alt=""><br><br>Televizor WellStars smart 32", 43",<br> 55", 70" ovozli qidiruv pulti bilan<br>
+                <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (468 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">19 716 so'm/oyiga</span><br><br><del style="color: gray;">250 000</del><br> <span>169 000 so'm    </span> </div>
+            <div class="pu"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cd0gfef0tgqvlm57tvdg/original.jpg" alt=""><br><br>Yuz kremi La Roche-Posay <br> Anthelios SPF50+ namlovchi, 50 ml<br>
+                    <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.8 ball (1958 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">19 716 so'm/oyiga</span><br><br><del style="color: gray;">4 200</del><br> <span>36 000 so'm    </span> </div>
+            <div class="pu"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cqkucdsqvsse8letu5eg/original.jpg" alt=""><br><br>LA ROCHE-POSAY ANHELIOS SPF <br> 50/PPD 27, 75 ml yuz uchun quyoshdan himoya qiluvchi matlashtiruvchi sprey parda<br>
+                <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">4 433 so'm/oyiga</span><br><br><del style="color: gray;">25 000</del><br> <span>19 000 so'm    </span> </div>
+            <div class="pu"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/clisjevn7c6ncm71e6d0/original.jpg" alt=""><br><br>Dezodorant erkaklar uchun Old <br> Spice Nightpanther, 50 ml<br>
+                    <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">4 433 so'm/oyiga</span><br><br><del style="color: gray;">75 000</del><br> <span>38 000 so'm    </span> </div>
+            <div class="pu"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cce3u8r20nsi6n4g8v70/original.jpg" alt=""><br><br>Shakar o'rnini bosuvchi vosita Fit <br>    Parad № 7, 500 gr<br>
+                        <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">16 333 so'm/oyiga</span><br><br><del style="color: gray;">208 000</del><br> <span>140 000 so'm    </span> </div>
+        </div>
+        <div class="buton"><button>Yana ko'rsatish 10</button></div><br>
+        <div class="rasm2">
+            <img style="width: 1270px; border-radius: 20px;" src="https://images.uzum.uz/cqd0tn4sslotj05l4kvg/main_page_banner.jpg" alt="">
+        </div><br>
+        <div class="h2"><b>Apple texnikasi ></b></div><br>
+        <div class="ktalog">
+            <div class="p"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cqljbpksslomdvnj1l0g/original.jpg" alt=""><br><br>Smartfon "Apple iPhone" 12,<br> 64/128/256 GB, SIM, g'ilof<br>
+                <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.3 ball ( sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">828 000 so'm/oyiga</span><br><br><del style="color: gray;">15 000 000</del><br> <span>7 099 000 so'm</span> </div>
+            <div class="p"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cqc1ob7frr885gh2gbq0/original.jpg" alt=""><br><br>Yuz kremi La Roche-Posay <br> Anthelios SPF50+ namlovchi, 50 ml<br>
+                    <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.8 ball (1958 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">19 716 so'm/oyiga</span><br><br><del style="color: gray;">4 200</del><br> <span>36 000 so'm    </span> </div>
+            <div class="p"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cp6vkttbnta2393fr53g/original.jpg" alt=""><br><br>Simsiz quloqchinlar Apple AirPods Pro2<br>
+                <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">4 433 so'm/oyiga</span><br><br><del style="color: gray;">25 000</del><br> <span>2 899 000 so'm    </span> </div>
+            <div class="p"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cplkd7r5qt1gj8dbg1u0/original.jpg" alt=""><br><br>Dezodorant erkaklar uchun Old <br> Spice Nightpanther, 50 ml<br>
+                    <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">4 433 so'm/oyiga</span><br><br><del style="color: gray;">75 000</del><br> <span>38 000 so'm    </span> </div>
+            <div class="p"><img style="width: 220px; border-radius: 20px;" src="https://images.uzum.uz/cof92gi1om4pepe086d0/original.jpg" alt=""><br><br>Shakar o'rnini bosuvchi vosita Fit <br>    Parad № 7, 500 gr<br>
+                        <i class="fa-solid fa-star" style="font-size: 10px; color: #ffd000;"></i> &nbsp;<span style="color: gray; font-size: 14px;">4.9 ball (4698 sharxlar)</span><br><span style="border: 1px solid none; background-color: #e4d021; border-radius: 5px; padding: 2px; font-size: 14px;">16 333 so'm/oyiga</span><br><br><del style="color: gray;">208 000</del><br> <span>140 000 so'm    </span> </div>
+        </div>
+    </div>
+</body>
+</html>
