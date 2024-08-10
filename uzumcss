@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.top{
+    background-color: rgba(38, 38, 38, 0.089);
+    height: vh;
+    padding: 5px;
+    padding-left: 120px;
+}
+a{
+    color: black;
+}
+img{
+    width: 20px;
+}
+.emb{
+    height: 10vh;
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+}
+input{
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 400px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-right: none;
+    height: 40px;
+    border: 1px solid black;
+}
+.kind{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+}
+.rasm{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.h1{
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 35px;
+}
+.mashhur{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    height: 80vh;
+}
+.pul{
+    width: 270px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.katalog{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    height: 80vh;
+    margin-bottom: 50px;
+}
+.pu{
+    width: 270px;
+    margin: 20px;
+    border-radius: 20px;
+}
+button{
+    width: 680px;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: rgb(197, 195, 195);
+    text-align: center;
+    font-size: 20px;
+    border: 0px solid none;
+    margin-left: 420px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+.rasm2{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.h2{
+    padding-left: 120px;
+    padding-right: 120px;
+    font-size: 35px;
+}
+.ktalog{
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+    height: 80vh;
+    margin-bottom: 50px;
+}
+.p{
+    width: 270px;
+    margin: 20px;
+    border-radius: 20px;
+}
