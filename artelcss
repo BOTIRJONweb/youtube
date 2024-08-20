@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 100%;
+    height: 7vh;
+    padding: 10px;
+    padding-left:250px;
+    padding-right :250px;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    margin-top: 15px;
+    font-size: 14px;
+}
+.rasm{
+    width: 100%;
+    height: 80vh;
+    background-image: url(pult.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.main{
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 15px;
+}
+.prod{
+    padding: 25px;
+    width: 100%;
+    height: 55vh;
+    display: flex;
+}
+@media only screen and (min-width: 1217px){
+
+}
+.card{
+    width: 355px;
+    background-color: rgb(41, 194, 202);
+    height: 60vh;
+    border-radius: 20px;
+}
+.navbar{
+    min-width: 1233px;
+    display: block;
+}
