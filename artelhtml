@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artel</title>
+    <link rel="stylesheet" href="artel.css">
+</head>
+<body>
+    <div class="project">
+        <div class="navbar">
+            <ul>
+            <img src="logoartel.png" alt="" style="width: 90px;">
+            <li><b>KOMPANIYA HAQIDA</b></li>
+            <li><b>KATALOG</b> </li>
+            <li><b>F.A.Q</b></li>
+            <li><b>Yangiliklar</b></li>
+            <li><b>KARYERA</b></li>
+            <li  style="color: rgb(67, 51, 109);"><b>EKSPORT</b></li>
+            <li style="color: rgb(255, 0, 0);"><b>SHIVAKI</b></li>
+            <li style="color: rgb(17, 17, 210);"><b>SAMSUNG</b></li>
+            <li>O'zbekcha</li>
+            </ul>
+        </div>
+        <div class="rasm"></div>
+        <div class="main">
+            <img src="image copy.png" alt="" style="width: 700px; height: 330px;">
+          
+        </div>
+        <h2 style=" margin-left: 50px;">Yangi mahsulotlar </h2>
+        <div class="prod">
+           <div class="card"> </div>&nbsp;&nbsp;&nbsp;
+           <div class="card"></div>&nbsp;&nbsp;&nbsp;
+            <div class="card"></div>&nbsp;&nbsp;&nbsp;
+            <div class="card"></div>
+        </div>
+    </div>
+</body>
+</html>
