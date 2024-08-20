@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+   background-image: url(https://media.istockphoto.com/id/1286342342/photo/selective-focus-of-the-heli-copter-parking-lot-on-the-deck-at-sunset-in-the-capital-of.jpg?s=612x612&w=0&k=20&c=ohREimaYkdkBMH3VIt4joyQqCSXh9rViEjdOcFU3lj4=);
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+img{
+    width: 350px;
+}
+.helicopter{
+    animation-name: helicopter;
+    animation-fill-mode: forwards;
+    animation-duration: 10s;
+    position: relative;
+    animation-fill-mode: forwards;
+}
+
+@keyframes helicopter{
+    0%   {left:0px; top:0px;}
+    25%  { left:200px; top:0px;}
+    50%  { transform: rotateY(180deg);}
+    75%  { right: 250px; top:0px;}
+    99%  { left: 500px; top: 400px;} 
+  }
