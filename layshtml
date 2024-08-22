@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="lays.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <center>
+        <div class="project">
+            <div class="navbar">
+                <img src="image copy.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <ul>
+                    <li><b>Products</b></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <li><b>About Us</b></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <li><b>Recipes</b></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <li><b>Flavor That Hits Home</b></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <li><b>Where to Buy</b></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <li><b>PepsiCo Tasty Rewards</b></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </ul>
+                <b><h3>ES</h3></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <i class="fa-solid fa-magnifying-glass" style="font-size: 25px;"></i>
+            </div><br>
+            <div class="ad1"><img src="image copy 2.png" alt=""></div><br>
+            <div class="ad2"><h1>Products</h1><br><br>
+                <div class="box">
+                    <div class="card" style="background-color: rgb(225, 140, 21);"><img src="https://www.lays.com/sites/lays.com/files/2019-09/CheddarSC_0.png" alt=""> <br><h2>LAY'S</h2><br><br><br><br><button>View All</button></div>
+                    <div class="card" style="background-color: rgb(42, 207, 205);"><img src="https://www.lays.com/sites/lays.com/files/2019-09/Lightly%20Salted%20Classic.png" alt=""><br><h2>LAY'S <br>BETTER FOR YOU</h2><br><br><button>View All</button></div>
+                    <div class="card" style="background-color: rgb(33, 63, 161);"><img src="https://www.lays.com/sites/lays.com/files/2021-07/HERO_Smooth%20Ranch%20Dip.png" alt=""><br><h2>LAY'S <br>DIPS</h2><br><br><button>View All</button></div>
+                </div>
+            </div><br>
+            <div class="ad3">
+                <h1>Recipes</h1><br><br>
+                <div class="box1">
+                    <div class="card1" style="background-color: rgb(249, 229, 5);"><img src="https://www.lays.com/sites/lays.com/files/styles/recipe_thumbnail/public/LAY%27S%20CRUSTED%20HOLIDAY%20BROWNIE-032_1920x625.png?itok=-UV2dx7y" alt=""> <br><h2>LAY'S Potato chip <br>Crusted holiday <br>Brownies  </h2><br><button>View Recipe</button></div>
+                    <div class="card1" style="background-color: rgb(249, 229, 5);"><img src="https://www.lays.com/sites/lays.com/files/styles/recipe_thumbnail/public/LAY%E2%80%99S%20POTATO%20CHIP%20MAGIC%20BARS-023_1920x625.png?itok=bH9cUnSt" alt=""><br><h2>LAY'S Potato chip  <br>Magic bars</h2><br><br><br><button>View Recipe</button></div>
+                    <div class="card1" style="background-color: rgb(249, 229, 5);"><img src="https://www.lays.com/sites/lays.com/files/styles/recipe_thumbnail/public/LAY_SpicyFriedChickySammy_TWITTER_0.jpg?itok=vjRZqVDg" alt=""><br><h2>LAY'S FLAMIN'<br>Spicy Chiken Sandwich</h2><br><button>View Recipe</button></div>
+                </div>
+            </div>
+        </div>
+    </center>
+</body>
+</html>
