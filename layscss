@@ -1,0 +1,235 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(to top,rgb(255, 176, 17), rgb(243, 235, 14) );
+    padding-top: 20px;
+}
+.navbar{
+    height: 13vh;
+    background-color: rgb(255, 234, 0);
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    display: flex;
+    width: 1180px;
+}
+.navbar img{
+    width: 80px;
+    margin-bottom: 3px;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style: none;
+    font-size: 14px;
+    margin-top: 25px;
+}
+.navbar ul{
+    display: flex;
+}
+.navbar h3{
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.navbar i{
+    margin-top: 20px;
+    width: 20px;
+}
+.navbar h3{
+    width: 40px;
+}
+.ad1 img{
+    width: 1180px;
+}
+.ad2{
+    padding-left: 100px;
+    padding-top: 110px;
+    padding: 80px;
+    width: 1180px;
+    background-image: url(https://thumbs.dreamstime.com/b/potato-chips-red-bag-red-background-potato-chips-red-bag-red-background-328511552.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1180px;
+}
+.ad2 h1{
+    color: white;
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box{
+    display: flex;
+}
+.card{
+    width: 340px;
+    height: 80vh;
+    color: white;
+}
+.card img{
+    width: 340px;
+}
+.ad2 h2{
+    font-size: 35px;
+    padding: 15px;
+}
+.card button{
+    width: 120px;
+    height: 5vh;
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(179, 11, 11);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    margin-left: 10px;
+    font-size: 17px;
+}
+.ad3{
+    padding-left: 100px;
+    padding-top: 110px;
+    padding: 80px;
+    width: 1180px;
+    background-image: url(https://avatars.mds.yandex.net/i?id=2a572fb30cbcf54d82b92c8184873e3d354b66f1-5232111-images-thumbs&n=13);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1180px;
+}
+.ad2 h1{
+    color: white;
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box1{
+    display: flex;
+}
+.card1{
+    width: 340px;
+    height: 80vh;
+    color: rgb(0, 0, 0);
+    margin: 15px;
+}
+.card1 img{
+    width: 320px;
+}
+.ad3 h2{
+    font-size: 35px;
+    padding: 15px;
+}
+.card1 button{
+    width: 140px;
+    height: 5vh;
+    border-radius: 20px;
+    color: white;
+    background-color: rgb(179, 11, 11);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    margin-left: 10px;
+    font-size: 17px;
+}
+.ad3 h1{
+    color: white;
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card1 img:hover{
+    cursor: pointer;
+    padding: 15px;
+}
+.card img:hover{
+    cursor: pointer;
+    padding: 15px;
+}
+.navbar li:hover{
+    color: white;
+}
+.card1 button:hover{
+    cursor: pointer;
+    background-color: rgb(31, 143, 228);
+    color: rgb(0, 0, 0);
+}
+.card button:hover{
+    cursor: pointer;
+    background-color: rgb(246, 222, 9);
+    color: rgb(0, 0, 0);
+}
+@media(max-width: 650px){
+    .navbar ul{
+        display: block;
+    }
+    .navbar{
+        display: block;
+        height: 100vh;
+        text-align: center;
+    }
+    .navbar h3{
+        margin-left: 570px;
+        font-size: 25px;
+    }
+    .navbar img{
+        margin-left: 130px;
+        width: 150px;
+    }
+    .navbar i{
+        margin-right: 20px;
+        font-size: 25px;
+    }
+    .navbar li{
+        font-size: 25px;
+    }
+    .ad1 img{
+        width: 1180px;
+        height: 80vh;
+    }
+    .ad2{
+        height: 600vh;
+    }
+    .box{
+        display: block;
+    }
+    .card{
+        width: 900px;
+        margin: 30px;
+        height: 170vh;
+    }
+    .card img{
+        width: 900px;
+    }
+    .card h2{
+        font-size: 60px;
+    }
+    .card button{
+        width: 300px;
+        height: 10vh;
+        font-size: 40px;
+        border-radius: 30px;
+    }
+
+    .ad3{
+        height: 600vh;
+    }
+    .box1{
+        display: block;
+    }
+    .card1{
+        width: 900px;
+        margin: 30px;
+        height: 170vh;
+    }
+    .card1 img{
+        width: 900px;
+    }
+    .card1 h2{
+        font-size: 60px;
+    }
+    .card1 button{
+        width: 300px;
+        height: 10vh;
+        font-size: 40px;
+        border-radius: 30px;
+    }
+}
