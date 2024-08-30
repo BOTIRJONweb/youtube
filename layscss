@@ -15,6 +15,7 @@ body{
     padding-top: 5px;
     display: flex;
     width: 1180px;
+    
 }
 .navbar img{
     width: 80px;
@@ -157,6 +158,24 @@ li{
     background-color: rgb(246, 222, 9);
     color: rgb(0, 0, 0);
 }
+.ad4{
+    width: 1180px;
+    background-image: url(https://thumbs.dreamstime.com/b/bowl-crispy-potato-chips-crisps-spring-onion-flavor-light-green-background-top-view-empty-space-text-269446335.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 80px;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.ad4 h1{
+    font-size: 60px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     color: white;
+}
+.ad4 h2{
+    color: white;
+    font-size: 40px;
+}
 @media(max-width: 650px){
     .navbar ul{
         display: block;
@@ -194,7 +213,7 @@ li{
     .card{
         width: 900px;
         margin: 30px;
-        height: 170vh;
+        height: 150vh;
     }
     .card img{
         width: 900px;
@@ -218,7 +237,7 @@ li{
     .card1{
         width: 900px;
         margin: 30px;
-        height: 170vh;
+        height: 160vh;
     }
     .card1 img{
         width: 900px;
@@ -231,5 +250,8 @@ li{
         height: 10vh;
         font-size: 40px;
         border-radius: 30px;
+    }
+    .div{
+        display: block;
     }
 }
